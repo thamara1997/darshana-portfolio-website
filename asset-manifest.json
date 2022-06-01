@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/darshana-portfolio-website/static/css/main.ebf6db2f.css",
+    "main.css": "/darshana-portfolio-website/static/css/main.d68c9f3e.css",
     "main.js": "/darshana-portfolio-website/static/js/main.eb0392eb.js",
     "static/media/cv.pdf": "/darshana-portfolio-website/static/media/cv.7a5eb0e86d2afa931392.pdf",
     "static/media/me-about.jpg": "/darshana-portfolio-website/static/media/me-about.fd56c297cc418030aed9.jpg",
@@ -15,11 +15,11 @@
     "static/media/avatar2.jpg": "/darshana-portfolio-website/static/media/avatar2.abb6cf57103a2b25775c.jpg",
     "static/media/avatar3.jpg": "/darshana-portfolio-website/static/media/avatar3.7cdd55ce2e8344a07835.jpg",
     "index.html": "/darshana-portfolio-website/index.html",
-    "main.ebf6db2f.css.map": "/darshana-portfolio-website/static/css/main.ebf6db2f.css.map",
+    "main.d68c9f3e.css.map": "/darshana-portfolio-website/static/css/main.d68c9f3e.css.map",
     "main.eb0392eb.js.map": "/darshana-portfolio-website/static/js/main.eb0392eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebf6db2f.css",
+    "static/css/main.d68c9f3e.css",
     "static/js/main.eb0392eb.js"
   ]
 }
