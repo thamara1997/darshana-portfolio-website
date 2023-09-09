@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/darshana-portfolio-website/static/css/main.b27f15c1.css",
-    "main.js": "/darshana-portfolio-website/static/js/main.ddbeb41f.js",
-    "static/media/cv.pdf": "/darshana-portfolio-website/static/media/cv.7a5eb0e86d2afa931392.pdf",
+    "main.js": "/darshana-portfolio-website/static/js/main.29c61cd4.js",
+    "static/media/cv.pdf": "/darshana-portfolio-website/static/media/cv.e2c267106f22176870a6.pdf",
     "static/media/me-about.jpg": "/darshana-portfolio-website/static/media/me-about.fd56c297cc418030aed9.jpg",
     "static/media/me.png": "/darshana-portfolio-website/static/media/me.097cfb895446b56c9216.png",
     "static/media/portfolio1.jpg": "/darshana-portfolio-website/static/media/portfolio1.6018f2d79da9bcdabfbb.jpg",
@@ -19,10 +19,10 @@
     "static/media/avatar3.jpg": "/darshana-portfolio-website/static/media/avatar3.7cdd55ce2e8344a07835.jpg",
     "index.html": "/darshana-portfolio-website/index.html",
     "main.b27f15c1.css.map": "/darshana-portfolio-website/static/css/main.b27f15c1.css.map",
-    "main.ddbeb41f.js.map": "/darshana-portfolio-website/static/js/main.ddbeb41f.js.map"
+    "main.29c61cd4.js.map": "/darshana-portfolio-website/static/js/main.29c61cd4.js.map"
   },
   "entrypoints": [
     "static/css/main.b27f15c1.css",
-    "static/js/main.ddbeb41f.js"
+    "static/js/main.29c61cd4.js"
   ]
 }
