@@ -30,23 +30,6 @@ const Testimonials = () => {
       >
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
-            <img src={AVTR1} alt="Avatar One" />
-          </div>
-          <h5 className="client__name">Rangana Wijewickrama</h5>
-          <small className="client__review">
-            Darshana's exceptional web design skills and creativity made this
-            project a breeze. He expertly crafted the website and tailored it to
-            the client's vision, resulting in a stunning, user-friendly
-            platform. His exceptional communication skills and creativity made
-            the process seamless. Darshana's technical expertise demonstrated
-            remarkable creativity, injecting innovative ideas that elevated the
-            overall design and user experience. Highly recommended for their
-            design prowess and dedication to client satisfaction.
-          </small>
-        </SwiperSlide>
-
-        <SwiperSlide className="testimonial">
-          <div className="client__avatar">
             <img src={AVTR2} alt="Avatar One" />
           </div>
           <h5 className="client__name">Brianwacker</h5>
@@ -54,6 +37,19 @@ const Testimonials = () => {
             Very patient and professional! Clean work,He did it in quick time
             and without a ton of guidance on what we wanted. Overall good
             experience. I love it!Amazing Job!!! Thank you for everything.
+          </small>
+        </SwiperSlide>
+
+        <SwiperSlide className="testimonial">
+          <div className="client__avatar">
+            <img src={AVTR1} alt="Avatar One" />
+          </div>
+          <h5 className="client__name">Rangana Wijewickrama</h5>
+          <small className="client__review">
+            Darshana's exceptional web design skills and creativity, coupled
+            with his excellent communication and technical expertise, made the
+            project a seamless and user-friendly platform, highly recommended
+            for their dedication to client satisfaction.-LiberBin
           </small>
         </SwiperSlide>
 
